@@ -1,0 +1,58 @@
+{
+  "id": "2040690",
+  "name": "菜单管理",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "16853765",
+      "name": "application",
+      "font_class": "application",
+      "unicode": "e613",
+      "unicode_decimal": 58899
+    },
+    {
+      "icon_id": "16853768",
+      "name": "data",
+      "font_class": "data",
+      "unicode": "e614",
+      "unicode_decimal": 58900
+    },
+    {
+      "icon_id": "16853770",
+      "name": "edit",
+      "font_class": "edit",
+      "unicode": "e615",
+      "unicode_decimal": 58901
+    },
+    {
+      "icon_id": "16853773",
+      "name": "record",
+      "font_class": "record",
+      "unicode": "e616",
+      "unicode_decimal": 58902
+    },
+    {
+      "icon_id": "16853776",
+      "name": "layer",
+      "font_class": "layer",
+      "unicode": "e617",
+      "unicode_decimal": 58903
+    },
+    {
+      "icon_id": "16853780",
+      "name": "miner",
+      "font_class": "miner",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "16853782",
+      "name": "search",
+      "font_class": "search",
+      "unicode": "e619",
+      "unicode_decimal": 58905
+    }
+  ]
+}
